@@ -64,7 +64,6 @@ function App() {
                 </tbody>
             </Table>
         </Container>
-
     </div>);
 }
 
